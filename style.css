@@ -1,15 +1,54 @@
 h1 {
     color: darkred;
-    
+    display: block;
+    block-size: 50px;
+    text-align: center;
+    font-size: 80px;    
 }
+
 body{
     background-image: url(https://hideoutshowcase.com/hideoutscreenshots/w8BMx66waJIzz1BkLYW8qved1oZnn3YDrBcwWDes.jpg/gallery);
     background-repeat: no-repeat;
     background-size: cover;
 }
-p{
-    color: white;
+
+.timePlayed{
+    font-size: larger;
 }
+
+.builds{
+    color: silver;
+    block-size: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+
+}
+
+p{
+    color: silver;
+}
+
+h2{
+    color:silver;
+    font-size: 50px;
+}
+
 h3{
-    color: white;
+    color: silver;
+    font-size: 50px;
+}
+
+.campain{
+    font-size: 20px;
+}
+
+.pathContent{
+    color: silver;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.endGame{
+    font-size: larger;
 }
