@@ -1,3 +1,15 @@
 h1 {
     color: darkred;
+    
+}
+body{
+    background-image: url(https://hideoutshowcase.com/hideoutscreenshots/w8BMx66waJIzz1BkLYW8qved1oZnn3YDrBcwWDes.jpg/gallery);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
 }
